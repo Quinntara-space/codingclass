@@ -5,4 +5,18 @@
 
 		} 
 
+		.right-top{
+			width:240px;
+			height:123px;
+			background-color:#00d;
+			float:left;
+		}
+
+		.right-bottom{
+			width:240;
+			height:123px;
+			background-color:#00d;
+			float:right;
+		}
+
 		
